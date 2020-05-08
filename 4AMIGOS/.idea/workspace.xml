@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <locale>pt</locale>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68f0ebab-f49f-4b5a-9f14-6feae465bd12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/aemeualiado.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/amanakichamana.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/bomdiakk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/caradotigas.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/chaaputajatogrossoviado.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/eaifirmeza.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/essapiadaeprapoucos.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/euqueroveeunir.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/fala300fala300.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/han14andar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/hocesperderamem.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/kraiiicuzaoooo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/leonardodavinci.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/naoconfia.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/naoequeo14vemdepoisdo13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/oseisperderamem.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/pocaszideia.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/pohadormicuzao.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/ritaa.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/seupaisoueu.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/soagradece.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/vailavarumaslocacarai.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/01_Cuppy_smile.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/02_Cuppy_lol.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/03_Cuppy_rofl.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/04_Cuppy_sad.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/05_Cuppy_cry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/06_Cuppy_love.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/07_Cuppy_hate.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/08_Cuppy_lovewithmug.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/09_Cuppy_lovewithcookie.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/10_Cuppy_hmm.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/11_Cuppy_upset.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/12_Cuppy_angry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/13_Cuppy_curious.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/14_Cuppy_weird.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/15_Cuppy_bluescreen.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/16_Cuppy_angry.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/17_Cuppy_tired.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/18_Cuppy_workhard.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/19_Cuppy_shine.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/20_Cuppy_disgusting.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/21_Cuppy_hi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/22_Cuppy_bye.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/23_Cuppy_greentea.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/24_Cuppy_phone.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/25_Cuppy_battery.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/amigos_estrutura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/tray_Cuppy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerContentProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerContentProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_R_padrao_" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1anLB2CmDWIkTuiIYupuwo49myK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="0048692005" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-02T19:31:00.179Z" />
+    <property name="android.recentlyUsedThemes" value="Base.Theme.AppCompat.Light.DarkActionBar" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/1" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.samplestickerapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\server\www\projetos_android\git\4AMIGOS-app\4AMIGOS\app\src\main\assets\1" />
+      <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets" />
+      <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets\2" />
+      <recent name="C:\Android_new_versions\Android_Projetos\stickers-2dfb43629dd83600a9596f299d4a3fbac62ba7a7\Android\app\src\main\java\com\armax7\OS_4_AMIGOS_STAND_UP_COMEDY" />
+      <recent name="C:\Android_new_versions\Android_Projetos\stickers-2dfb43629dd83600a9596f299d4a3fbac62ba7a7\Android\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f0ebab-f49f-4b5a-9f14-6feae465bd12" name="Default Changelist" comment="" />
+      <created>1587366271380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587366271380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

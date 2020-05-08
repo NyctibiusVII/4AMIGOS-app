@@ -36,7 +36,8 @@ public class StickerContentProvider extends ContentProvider {
     /**
      * Do not change the strings listed below, as these are used by WhatsApp. And changing these will break the interface between sticker app and WhatsApp.
      */
-    public static final String STICKER_PACK_IDENTIFIER_IN_QUERY = "sticker_pack_identifier";
+    public static final String
+            STICKER_PACK_IDENTIFIER_IN_QUERY = "sticker_pack_identifier";
     public static final String STICKER_PACK_NAME_IN_QUERY = "sticker_pack_name";
     public static final String STICKER_PACK_PUBLISHER_IN_QUERY = "sticker_pack_publisher";
     public static final String STICKER_PACK_ICON_IN_QUERY = "sticker_pack_icon";
