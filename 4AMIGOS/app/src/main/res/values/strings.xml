@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name" translatable="false">4 AMIGOS</string>
+    <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
+    <!-- FRAGMENT COMEDIANTES ###################################################################-->
+
+    <!-- FRAGMENT FIGURINHAS ####################################################################-->
+
+    <!-- FRAGMENT SOBRE #########################################################################-->
+    <string name="_4_amigos_stand_up_comedy" translatable="false">4 AMIGOS - STAND UP COMEDY</string>
+    <string name="title_activity_sobre4amigos">Sobre os 4 Amigos</string>
+    <string name="btn_sobre_o_4_amigos">Sobre o 4 AMIGOS</string>
+    <string name="btn_loja_ofical">Loja ofical</string>
+    <string name="btn_remover_propagandas">Remover propagandas</string>
+    <string name="btn_enviar_feedback">Enviar feedback</string>
+    <string name="btn_compartilhar">Compartilhar</string>
+    <string name="txt_version_4_amigos_v_1_0" translatable="false">4 AMIGOS v.1.0</string>
+
+    <!-- TELA list_menu_sobre_4amigos .........................................................-->
+    <string name="txt_titulo_menu">Nome</string>
+    <string name="txt_desc_menu">Descrição constrangedora!</string>
+
+    <!-- TELA sobre4amigos ..............................................................-->
+    <string name="introSobre">“4 Amigos” é um show de stand-up comedy composto por Dihh Lopes,
+                Márcio Donato, Afonso Padilha e Thiago Ventura.</string>
+
+    <string name="sobre">
+                    Os comediantes Dihh Lopes, Marcio Donato, Thiago Ventura e Afonso Padilha, são
+                    amigos de longa data, e se juntam para realizar este espetáculo de Stand Up
+                    Comedy, de cara limpa, sem adereços, os 4 se revezam no palco por cerca de 20
+                    minutos cada, contando suas melhores observações do cotidiano. Com 4 anos de
+                    estrada, os 4 comediantes por fim se juntaram para realizar este projeto. Com
+                    estilos diferentes um do outro, cada um com suas particularidades, o show
+                    “4 Amigos” tem todos os ingredientes que contagiam a plateia, trazendo
+                    problemas particulares para arrancar boas risadas.</string>
+
+    <string name="o_show_title">O show</string>
+
+    <string name="o_show_txt">O nome fala por si só, são 4 amigos dividindo o
+                            palco no formato clássico de stand up comedy. O diferencial deste show
+                            é que os 4 são extremamente íntimos uns dos outros, e este vínculo fica
+                            nítido para a plateia ao final da apresentação, onde os 4 comediantes
+                            juntos contam particularidades uns dos outros, tornando o público cada
+                            vez mais intimo e próximo do elenco.</string>
+
+    <string name="txt_criador_armax7" translatable="false">Armax7</string>
+    <!-- OUTROS #####################################################################################-->
+    <!--PADRÃO -->
+    <string name="pNome">Deu erro \n&#160;&#160;neh?</string>
+    <string name="pDesc">Puts, reporta ai por favor…</string>
+    <string name="pInsta">estragam</string>
+    <string name="pYout">youtoba</string>
+    <!--NOMES -->
+    <string name="thi" translatable="false">Thiago \n&#160;&#160;Ventura</string>
+    <string name="afo" translatable="false">Afonso \n&#160;&#160;Padilha</string>
+    <string name="dih" translatable="false">Dihh \n&#160;&#160;Lopes</string>
+    <string name="mar" translatable="false">Márcio \n&#160;&#160;Donato</string>
+
+    <!--NOMES P/ SEGUIR-->
+    <string name="thi_yout" translatable="false">Thiago Ventura</string>
+    <string name="afo_yout" translatable="false">Afonso Padilha</string>
+    <string name="dih_yout" translatable="false">Dihh Lopes</string>
+    <string name="mar_yout" translatable="false">Márcio Donato</string>
+    <string name="thi_insta" translatable="false">\@othiagoventura</string>
+    <string name="afo_insta" translatable="false">\@oafonsopadilha</string>
+    <string name="dih_insta" translatable="false">\@odihhlopes</string>
+    <string name="mar_insta" translatable="false">\@omarciodonato</string>
+
+    <!-- Quem são? (Rapido)-->
+    <string name="thiagoVenturaR">Criador da “Pose de Quebrada”, difundida nas redes sociais por
+        Neymar, Gabriel Jesus, mas também por Mbappé e o piloto de Fórmula 1 Lewis Hamilton, o
+        humorista Thiago Ventura é hoje o principal nome do stand up comedy do país.</string>
+    <string name="afonsoPadilhaR">Foi roteirista do Porta dos Fundos e Comedy Central. Hoje Afonso
+        Padilha é um dos principais nomes do país e viaja com seus shows solo e com o grupo 4 Amigos
+        do qual é integrante junto com Thiago Ventura, Dihh Lopes e Marcio Donato.</string>
+    <string name="dihLopesR">Dihh Lopes é nascido em São Paulo e começou no stand up comedy em 2009.
+        … Ele é um dos fundadores e integrante do 4 Amigos, grupo de comédia stand up que está
+        fazendo enorme sucesso em todo o Brasil.</string>
+    <string name="marcioDonatoR">Márcio Donato é integrante dos grupos "Comédia Império" e "4 Amigos".
+        Se destaca por sua versatilidade em abordar temas variados. Sua característica forte é seu
+        temperamento explosivo, coisas idiotas e sem explicação o irritam muito por isso ele desabafa
+        tudo no palco de uma forma bem engraçada. </string>
+
+    <!-- Quem são? (Detalhado)-->
+    <string name="thiagoVenturaD">Administrador formado, fez oficina de improvisação teatral, teatro
+        no Teatro Escola Macunaíma, faz Stand Up Comedy desde 2010. Um dos fundadores do grupo Riso
+        Ereto junto com Dihh Lopes. \n Na televisão, já participou dos programas “Agora é Tarde com
+        Danilo Gentili” (Rede Bandeirantes), “Programa Raul Gil” (SBT) entre outros. Recentemente
+        participou do quadro Quem Chega Lá, do “Domingão do Faustão”, exibido pela rede Globo.</string>
+    <string name="afonsoPadilhaD">Afonso padilha é comediante, humorista e roteirista.\n Tem 3 especiais
+        de comédia no seu canal do YouTube, um na netflix mundial e atualmente está rodando com seu
+        quarto show solo, ALMA DE POBRE, no qual fala sobre estigma social, usando histórias pessoais
+        pra ilustrar que não importa o quanto você ganhe dinheiro continuará sendo pobre.</string>
+    <string name="dihhLopesD">O comediante Dihh Lopes começou no stand-up em 2010, é um dos formadores
+        do grupo Riso Ereto, no que esteve em cartaz no Teatro do Corinthians, em São Paulo. \n\n
+        Abordando temas como; divida em banco e capoeira, Dihh Lopes cativa o público com suas
+        observações inusitadas, e seus bordões sempre comentados pelo público. “vocês são da hora”
+        e o “Sem Maldade”. Na televisão passou pelo programa “Tudo a Ver” da Rede Record.</string>
+    <string name="marcioDonatoD">Mas conhecido como “Martchola”, apresenta uma grande versatilidade
+        por abordar variados temas. Já fez shows na Argentina nos bares “La Casa de Sr. Duncan”, ”The
+        Cavern Pub“ e no \n “Comedians ” em São Paulo.\n Conhecido pelo seu estilo raivoso, arranca
+        gargalhadas da plateia com seu jeito inconformado de ser.</string>
+
+    <!-- SITES -->
+    <string name="site4amigos" translatable="false">https://lojaoficial4amigos.com.br/</string>
+    <string name="siteLogos" translatable="false">https://icons8.com/icon/pack/logos/material</string>
+    <string name="siteEmoticons" translatable="false">Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik"
+        title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">
+        www.flaticon.com</a></string>
+
+    <!-- MENU -->
+    <string name="menu_piadas">Piadas</string>
+    <string name="menu_stickers">Stickers</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <!-- alerta noADS -->
+    <string name="noDisponible">Indisponivel no momento.</string>
+
+
+parei no (az)
+
+
+    <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
+
+
+    <!-- Content description for the sticker pack tray image -->
+    <string name="tray_image_content_description">Sticker Pack Tray Image</string>
+    <!-- the title of info button in the menu that takes the user to more information about that pack showing publisher website and so on -->
+    <string name="more_info_button">More info about sticker pack</string>
+    <!-- Text to be shown on the button that user can click to add the sticker pack to WhatsApp -->
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <!-- Content Description for the plus button shown on sticker pack list, that allows user to add sticker pack to WhatsApp -->
+    <string name="add_button_content_description">Add sticker pack to WhatsApp</string>
+    <!-- Title of the sticker pack list activity page in case the app contains multiple sticker packs, the singular string will be used when there is only one pack in the app -->
+    <plurals name="title_activity_sticker_packs_list">
+        <item quantity="one">Sticker Pack</item>
+        <item quantity="other">Sticker Packs</item>
+    </plurals>
+    <!-- Title of the sticker pack page when there are multiple sticker packs in the app -->
+    <string name="title_activity_sticker_pack_details_multiple_pack">Sticker details</string>
+    <!-- Title of the sticker pack info page which displays the webpage, email and privacy policy of the sticker pack -->
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <!-- Text of button that allows user to click to go to the webpage of the publisher -->
+    <string name="view_webpage">View webpage</string>
+    <!-- Text of button that allows user to click to send an email -->
+    <string name="send_email">Send email</string>
+    <!-- Text of button that allows user to click to go to the privacy policy website -->
+    <string name="privacy_policy">Privacy policy</string>
+    <!-- Text of button that allows user to click to go to the license agreement website -->
+    <string name="license_agreement">License agreement</string>
+    <!-- Text next to the tray icon that indicates the tray icon -->
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <!-- Text shown to the user instead of Add to WhatsApp button if the pack is already added to WhatsApp -->
+    <string name="details_pack_already_added">Sticker pack added to WhatsApp</string>
+    <!-- Title in the intent chooser that shows when user has multiple email client installed -->
+    <string name="info_send_email_to_prompt">Send email with</string>
+    <!-- Message to show in a dialog when user fails to add sticker pack -->
+    <string name="add_pack_fail_prompt_update_whatsapp">Sticker pack not added. If you\'d like to add it, make sure you update to the latest version of WhatsApp.</string>
+    <!-- Text in dialog button when a user has an old version of WhatsApp that prevents them from adding the sticker pack, clicking on it will take user to play store -->
+    <string name="add_pack_fail_prompt_update_play_link">Update</string>
+    <!-- Toast text when we could not take user to play store because they don't have Google Play app installed -->
+    <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
+</resources>

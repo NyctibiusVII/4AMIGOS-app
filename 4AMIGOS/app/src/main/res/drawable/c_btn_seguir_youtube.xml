@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/c_gradient_youtube_pressed"/>
+    <item android:state_enabled="false" android:drawable="@drawable/c_gradient_insta_yout_enabled"/>
+    <item android:drawable="@drawable/c_gradient_insta_yout_defalt"/>
+</selector>

@@ -1,0 +1,8 @@
+<resources>
+    <!-- O divisor entre o editor do pacote de adesivos e o tamanho do pacote de adesivos -->
+    <string name="dot">•</string>
+<!--    Erro:% s \ n Veja o logcat para rastreamento de pilha.-->
+    <string name="error_message">Error: %s \n See logcat for stack trace.</string>
+<!--    Erro no pacote-->
+    <string name="title_validation_error">Error with the pack</string>
+</resources>

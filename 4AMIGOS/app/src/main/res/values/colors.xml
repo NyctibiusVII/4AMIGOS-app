@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!--...PRINCIPAL.............................................................................-->
+        <color name="colorPrimary">#FFFFFF</color>
+        <color name="colorPrimaryDark">#FFFFFF</color>
+        <color name="colorAccent">#7BB931</color>
+
+        <color name="inactiveAddButtonColor">#B3B3B3</color>
+        <color name="infoPageBackgroundColor">#EBEBEB</color>
+        <color name="actionBarArrowColor">@color/colorAccent</color>
+
+        <color name="verdeZap">#128C7E</color>
+
+        <color name="colorLight">#EDFFF9</color>
+        <color name="invisivel">#00FFFFFF</color>
+
+        <color name="colorPrimaryText">#212121</color>
+        <color name="colorSecundaryText">#757575</color>
+        <color name="colorDividerText">#BDBDBD</color>
+        <color name="colorLightGray">#F1F1F1</color>
+
+        <color name="colorStatusBarGray">#E8E8E8</color>
+        <!-- ...GOOGLE.............................................................................. -->
+        <color name="gogBranco">#FFFFFF</color>
+        <color name="gogAzul">#42B5F4</color>
+        <color name="gogAmarelo">#FBBC05</color>
+        <color name="gogVerde">#34A853</color>
+        <color name="gogVermelho">#EA4335</color>
+        <color name="gogPreto">#222222</color>                  <!-- 222222|343434 -->
+        <color name="gogPretoPersonalizado">#070707</color>     <!-- 070707| 7 7 7 -->
+        <!-- ...OFICIAL............................................................................. -->
+        <color name="verde4A">#7BB931</color>
+        <color name="verdeDark4A">#006C30</color>
+        <color name="azul4A">#3700C4</color>
+        <color name="azulDark4A">#00023d</color>
+        <!-- ...INSTAGRAM............................................................................-->
+        <color name="instaAmarelo1_bottomLeft">#F8EC40</color>
+        <color name="instaRoxo2_meio">#BB3A94</color>
+        <color name="instaAzul3_topRight">#4B31D3</color>
+        <!-- ...YOUTUBE............................................................................-->
+        <color name="youtRed1Left">#FF5B5B</color>
+        <color name="youtAzul2_meio">#96FFF6</color>
+        <color name="youtRed3Right">#FF3636</color>
+    </resources>

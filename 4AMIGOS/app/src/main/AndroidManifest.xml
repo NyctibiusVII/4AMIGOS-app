@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY">
+    <!--    package="com.facebook.soloader"-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+
+        android:name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.StickerApplication"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+
+        <activity
+            android:name=".Splash"
+            android:configChanges="orientation|keyboardHidden|screenSize|locale"
+            android:screenOrientation="portrait"
+            android:theme="@style/screen"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="screenSize|uiMode"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/main"
+            tools:ignore="LockedOrientationActivity"
+            tools:targetApi="q" />
+        <activity
+            android:name=".sobre_Os_4amigos"
+            android:label="@string/title_activity_sobre4amigos"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/sobreACT"
+            tools:ignore="LockedOrientationActivity"
+            tools:targetApi="o" />
+        <activity
+            android:name=".sobre_oAmigo_Activity"
+            android:parentActivityName=".MainActivity"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:theme="@style/sobre_o_amigo"
+            tools:ignore="LockedOrientationActivity"/>
+        <activity
+            android:name=".EntryActivity"
+            android:theme="@style/Entry"/>
+        <activity
+            android:name=".StickerPackListActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/sticker_pack_detail"/>
+        <activity
+            android:name=".StickerPackDetailsActivity"
+            android:theme="@style/sticker_pack_detail"
+            android:parentActivityName=".StickerPackListActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.StickerPackListActivity" />
+        </activity>
+        <activity
+            android:name=".StickerPackInfoActivity"
+            android:theme="@style/sticker_pack_detail"
+            android:label="@string/title_activity_sticker_pack_info"
+            android:parentActivityName=".StickerPackDetailsActivity"
+            tools:ignore="UnusedAttribute">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.StickerPackDetailsActivity" />
+        </activity>
+        <provider
+            android:name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.StickerContentProvider"
+            android:authorities="${contentProviderAuthority}"
+            android:enabled="true"
+            android:exported="true"
+            android:readPermission="com.whatsapp.sticker.READ" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+</manifest>

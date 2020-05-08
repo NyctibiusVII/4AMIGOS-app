@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor="@color/gogBranco"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navPiadas"
+        android:icon="@drawable/c_rir"
+        android:title="@string/menu_piadas"
+        app:cnb_backgroundColor="@color/verde4A"
+        app:cnb_iconColor="@color/gogBranco"
+        app:cnb_textColor="@color/gogBranco"/>
+
+    <item
+        android:id="@+id/navStickers"
+        android:icon="@drawable/c_adesivo"
+        android:title="@string/menu_stickers"
+        app:cnb_backgroundColor="@color/verde4A"
+        app:cnb_iconColor="@color/gogBranco"
+        app:cnb_textColor="@color/gogBranco"/>
+
+    <item
+        android:id="@+id/navSobre"
+        android:icon="@drawable/c_sobre"
+        android:title="@string/menu_sobre"
+        app:cnb_backgroundColor="@color/verde4A"
+        app:cnb_iconColor="@color/gogBranco"
+        app:cnb_textColor="@color/gogBranco"/>
+
+</menu>

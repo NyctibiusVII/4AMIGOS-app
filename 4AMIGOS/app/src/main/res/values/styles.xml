@@ -1,0 +1,99 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--base-->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gogBranco</item>
+        <item name="colorPrimaryDark">@color/gogBranco</item>
+        <!--accent detalhes-->
+        <item name="colorAccent">@color/verde4A</item>
+        <!--statusBar-->
+        <item name="android:statusBarColor">@color/invisivel</item>
+    </style>
+    <!--SPLASH-->
+    <style name="screen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/gogBranco</item>
+    </style>
+    <!--MAIN-->
+    <style name="main" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/verde4A</item>
+        <item name="android:statusBarColor">@color/colorStatusBarGray</item>
+    </style>
+    <!--sobreACT-->
+    <style name="sobreACT" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/azulDark4A</item>
+        <item name="colorPrimaryDark">@color/azulDark4A</item>
+        <item name="colorAccent">@color/verde4A</item>
+        <item name="android:statusBarColor">@color/invisivel</item>
+    </style>
+    <!--sobre o amigo-->
+    <style name="sobre_o_amigo" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gogVermelho</item>
+        <item name="colorPrimaryDark">@color/invisivel</item>
+        <item name="colorAccent">@color/verde4A</item>
+        <item name="android:statusBarColor">@color/verde4A</item>
+    </style>
+    <!--sem topBar-->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!--CONTENT SOBRE-->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MyApp.ActionBarTheme" parent="@style/ThemeOverlay.MaterialComponents.ActionBar">
+        <item name="colorControlNormal">@color/actionBarArrowColor</item>
+    </style>
+
+    <style name="figurinhas" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarTheme">@style/MyApp.ActionBarTheme</item>
+    </style>
+
+    <!--sticker pack detail-->
+    <style name="sticker_pack_detail" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gogBranco</item>
+        <item name="colorPrimaryDark">@color/invisivel</item>
+        <item name="colorAccent">@color/verde4A</item>
+        <item name="android:statusBarColor">@color/colorStatusBarGray</item>
+    </style>
+
+    <!--Entry-->
+    <style name="Entry" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/gogBranco</item>
+        <item name="colorPrimaryDark">@color/gogBranco</item>
+        <item name="colorAccent">@color/verdeZap</item>
+        <item name="android:statusBarColor">@color/invisivel</item>
+    </style>
+
+    <style name="StickerPreviewButtonText" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="sticker_packs_list_item_author_style">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:lines">1</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="InfoButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">31dp</item>
+        <item name="android:paddingStart" tools:targetApi="jelly_bean_mr1">24dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:drawablePadding">32dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+</resources>

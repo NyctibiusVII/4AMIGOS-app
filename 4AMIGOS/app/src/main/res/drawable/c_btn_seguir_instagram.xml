@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:drawable="@drawable/c_gradient_instagram_pressed"/>
+    <item android:state_enabled="false" android:drawable="@drawable/c_gradient_insta_yout_enabled"/>
+    <item android:drawable="@drawable/c_gradient_insta_yout_defalt"/>
+<!--    <item-->
+<!--        android:state_pressed="true">-->
+<!--        <shape-->
+<!--            android:shape="rectangle"-->
+<!--            android:padding="16dp">-->
+<!--            <stroke-->
+<!--                android:width="5dp"-->
+<!--                android:color="@color/gogPretoPersonalizado"/>-->
+<!--            <corners-->
+<!--                android:radius="10dp" />-->
+<!--            <gradient-->
+<!--                android:angle="45"-->
+<!--                android:startColor="@color/instaAmarelo1_bottomLeft"-->
+<!--                android:centerColor="@color/instaRoxo3_topLeft"-->
+<!--                android:endColor="@color/instaAzul4_topRight"/>-->
+<!--            <solid-->
+<!--                android:color="@android:color/transparent"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item>-->
+<!--        <shape-->
+<!--            android:shape="rectangle"-->
+<!--            android:padding="16dp">-->
+<!--                    <stroke-->
+<!--                        android:width="5dp"-->
+<!--                        android:color="@color/gogBranco" />-->
+<!--                    <corners-->
+<!--                        android:radius="10dp" />-->
+<!--            <solid-->
+<!--                android:color="@android:color/transparent"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+
+</selector>
