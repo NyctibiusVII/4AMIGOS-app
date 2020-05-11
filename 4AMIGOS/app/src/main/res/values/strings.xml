@@ -115,12 +115,44 @@
     <!-- alerta noADS -->
     <string name="noDisponible">Indisponivel no momento.</string>
 
+    <!-- bugReporting #32 --> <!-- NÃO MEXA NESTAS VARIÁVEIS -->
+    <string name="a7hggc" translatable="false">a</string>
+    <string name="h14" translatable="false">b</string>
+    <string name="x30kjgdf" translatable="false">b</string>
+    <string name="v285388" translatable="false">c</string>
+    <string name="alguma" translatable="false">c</string>
+    <string name="nd1" translatable="false">d</string>
+    <string name="sequencia_kk" translatable="false">e</string>
+    <string name="pra_q" translatable="false">e</string>
+    <string name="u27" translatable="false">e</string>
+    <string name="o21" translatable="false">f</string>
+    <string name="w29" translatable="false">f</string>
+    <string name="tentando" translatable="false">f</string>
+    <string name="b8jnbc" translatable="false">f</string>
+    <string name="t26" translatable="false">0</string>
+    <string name="k17null" translatable="false">0</string>
+    <string name="m19" translatable="false">1</string>
+    <string name="p22" translatable="false">1</string>
+    <string name="s25kkk" translatable="false">1</string>
+    <string name="fazer" translatable="false">1</string>
+    <string name="nd5" translatable="false">1</string>
+    <string name="n20" translatable="false">2</string>
+    <string name="nd2oibb" translatable="false">2</string>
+    <string name="nd4" translatable="false">3</string>
+    <string name="nd6" translatable="false">4</string>
+    <string name="nifelsed3" translatable="false">4</string>
+    <string name="r24" translatable="false">4</string>
+    <string name="j16" translatable="false">4</string>
+    <string name="i15xama" translatable="false">5</string>
+    <string name="esta" translatable="false">5</string>
+    <string name="z32" translatable="false">7</string>
+    <string name="l18" translatable="false">8</string>
+    <string name="q23" translatable="false">9</string>
 
 parei no (az)
 
 
     <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
-
 
     <!-- Content description for the sticker pack tray image -->
     <string name="tray_image_content_description">Sticker Pack Tray Image</string>

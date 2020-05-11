@@ -1,22 +1,15 @@
 package com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY;
 
-import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
-import android.widget.TextView;
 import android.widget.Toast;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
-
 import com.ismaeldivita.chipnavigation.ChipNavigationBar;
 
-import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements AppInterface{
     // Contém os elementos da tela em questão. Faz o carregamento uma única vez e pode ser usado a qualquer momento dentro da classe.
     private ViewHolder mViewHolder = new ViewHolder();
     private static final String TAG = MainActivity.class.getSimpleName();
@@ -25,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        final StickerApplication app = (StickerApplication) getApplication();
+        //passar sua referência daqui
+        app.something(MainActivity.this);
+
         this.mViewHolder.mBottomNav = findViewById(R.id.bottomNav);
 
         //se não tiver nada salvo ele seta o fragmento nulo para o inicial(comediantesFragment).
@@ -61,6 +58,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    @Override
+    public void result() {
+        Log.d("result appinterface", "chamou!");
+    }
+
     /**para sair do aplicativo é preciso ser precionado 2 vezes seguidas o botão de voltar.**/
     @Override
     public void onBackPressed() {
@@ -75,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
             super.onBackPressed();
         }
     }
+
     /**metodo que serve para declarar,
      * com a diferença de que o findViewById só chama os itens uma vez,
      * com isso á um ganho de performce.
