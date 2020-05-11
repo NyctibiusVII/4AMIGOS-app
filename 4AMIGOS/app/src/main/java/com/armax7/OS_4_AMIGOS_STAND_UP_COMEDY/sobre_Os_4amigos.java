@@ -36,6 +36,7 @@ public class sobre_Os_4amigos extends AppCompatActivity {
             // USE(substitua) em caso de erro! com o código acima - getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
     }
+
     private static class ViewHolder {
         private Toolbar toolbar4A;
         private CollapsingToolbarLayout collapsingToolbarLayout4A;

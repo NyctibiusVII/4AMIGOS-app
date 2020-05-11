@@ -8,71 +8,27 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="token" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68f0ebab-f49f-4b5a-9f14-6feae465bd12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/aemeualiado.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/amanakichamana.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/bomdiakk.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/caradotigas.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/chaaputajatogrossoviado.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/eaifirmeza.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/essapiadaeprapoucos.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/euqueroveeunir.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/fala300fala300.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/han14andar.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/hocesperderamem.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/kraiiicuzaoooo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/leonardodavinci.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/naoconfia.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/naoequeo14vemdepoisdo13.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/oseisperderamem.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/pocaszideia.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/pohadormicuzao.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/ritaa.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/seupaisoueu.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/soagradece.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/vailavarumaslocacarai.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/01_Cuppy_smile.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/02_Cuppy_lol.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/03_Cuppy_rofl.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/04_Cuppy_sad.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/05_Cuppy_cry.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/06_Cuppy_love.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/07_Cuppy_hate.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/08_Cuppy_lovewithmug.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/09_Cuppy_lovewithcookie.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/10_Cuppy_hmm.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/11_Cuppy_upset.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/12_Cuppy_angry.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/13_Cuppy_curious.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/14_Cuppy_weird.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/15_Cuppy_bluescreen.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/16_Cuppy_angry.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/17_Cuppy_tired.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/18_Cuppy_workhard.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/19_Cuppy_shine.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/20_Cuppy_disgusting.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/21_Cuppy_hi.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/22_Cuppy_bye.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/23_Cuppy_greentea.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/24_Cuppy_phone.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/25_Cuppy_battery.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/amigos_estrutura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/tray_Cuppy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerContentProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerContentProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/AppInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/sobre_Os_4amigos.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/sobre_Os_4amigos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +36,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_R_padrao_" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="0048692005" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -93,12 +49,23 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1anLB2CmDWIkTuiIYupuwo49myK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="BundleExportedModule" value="app" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="0048692005" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-02T19:31:00.179Z" />
@@ -111,6 +78,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY" />
+    </key>
     <key name="android.template.packageName">
       <recent name="com.example.samplestickerapp" />
     </key>
@@ -222,5 +192,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
