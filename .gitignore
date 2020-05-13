@@ -1,0 +1,20 @@
+#.gitignore
+
+.vscode
+
+#pastas das versões do app
+\future
+\obsolete
+\node_modules
+
+#códigos para extrair apk's
+bundleGenerating.txt
+
+#arquivo de um passo a passo pessoal
+passo_a_passo_git.txt
+
+#ferramenta para extrair apk's para testes
+bundletool.jar
+
+#precaução se entrar uma key inesperada
+*.jks

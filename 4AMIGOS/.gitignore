@@ -1,0 +1,18 @@
+#padrão
+#.gradle
+.DS_Store
+local.properties
+localhost/
+obj/
+*.iml
+Gemfile.lock
+_site/
+
+#padrão (editado)
+.idea/libraries
+build
+
+.idea/workspace.xml
+
+#por enquanto
+README.md
