@@ -12,35 +12,16 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="68f0ebab-f49f-4b5a-9f14-6feae465bd12" name="Default Changelist" comment="" />
-=======
     <list default="true" id="68f0ebab-f49f-4b5a-9f14-6feae465bd12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/AppInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/sobre_Os_4amigos.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/sobre_Os_4amigos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
->>>>>>> bug-reporting
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="0048692005" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_R_padrao_" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -75,25 +56,13 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-02T19:31:00.179Z" />
     <property name="android.recentlyUsedThemes" value="Base.Theme.AppCompat.Light.DarkActionBar" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-<<<<<<< HEAD
-=======
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY" />
-    </key>
-    <key name="android.template.packageName">
-      <recent name="com.example.samplestickerapp" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY" />
-    </key>
->>>>>>> bug-reporting
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\server\www\projetos_android\git\4AMIGOS-app\4AMIGOS\app\src\main\assets\1" />
       <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets" />

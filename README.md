@@ -23,6 +23,10 @@ Olá para quem está lendo, quem fala é um adolecente de 18 anos, me chamo Math
 
 Bom.. sou novo nessa área de tecnologia mobile, começei em janeiro deste ano(2020) e mergulhei no Android Studio porque já sabia alguns conceitos básicos de java que tinha aprendido. O aplicativo do 4AMIGOS é um projeto pessoal em que estou me arriscando, gosto bastante da ideia de trabalhar com aplicativos e talves no futuro jogos, esse é meu intuito e estou focando bastante nisso, mas claro! dois passos de cada vez.
 
+## Licença
+4AMIGOS-app está [Apache-2.0-licensed](https://github.com/Armax7/4AMIGOS-app/blob/master/LICENSE).
+
+## Contato
 [Linkedin](https://www.linkedin.com/in/matheus-vidigal-armax7/) |
 [GitHub](https://github.com/Armax7) |
 [Instagram](https://www.instagram.com/matheus_armax7/) |
