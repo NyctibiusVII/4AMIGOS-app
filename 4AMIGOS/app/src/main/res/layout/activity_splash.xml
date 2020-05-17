@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:fontFamily="monospace"
-        android:text="VERSÃO 0.5 ALPHA"
+        android:text="VERSÃO ALPHA 0.1"
         android:textColor="@color/verde4A"
         android:textSize="18sp"
         android:typeface="monospace"
