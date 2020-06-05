@@ -4,6 +4,8 @@
     <!-- FRAGMENT COMEDIANTES ###################################################################-->
 
     <!-- FRAGMENT FIGURINHAS ####################################################################-->
+    <!-- TELA activity_sticker_pack_list ........................................................-->
+    <!-- TELA activity_sticker_pack_details .....................................................-->
 
     <!-- FRAGMENT SOBRE #########################################################################-->
     <string name="_4_amigos_stand_up_comedy" translatable="false">4 AMIGOS - STAND UP COMEDY</string>
@@ -15,11 +17,11 @@
     <string name="btn_compartilhar">Compartilhar</string>
     <string name="txt_version_4_amigos_v_1_0" translatable="false">4 AMIGOS v.1.0</string>
 
-    <!-- TELA list_menu_sobre_4amigos .........................................................-->
+    <!-- TELA list_menu_sobre_4amigos ...........................................................-->
     <string name="txt_titulo_menu">Nome</string>
     <string name="txt_desc_menu">Descrição constrangedora!</string>
 
-    <!-- TELA sobre4amigos ..............................................................-->
+    <!-- TELA sobre4amigos ......................................................................-->
     <string name="introSobre">“4 Amigos” é um show de stand-up comedy composto por Dihh Lopes,
                 Márcio Donato, Afonso Padilha e Thiago Ventura.</string>
 
@@ -43,7 +45,7 @@
                             vez mais intimo e próximo do elenco.</string>
 
     <string name="txt_criador_armax7" translatable="false">Armax7</string>
-    <!-- OUTROS #####################################################################################-->
+    <!-- OUTROS #################################################################################### -->
     <!--PADRÃO -->
     <string name="pNome">Deu erro \n&#160;&#160;neh?</string>
     <string name="pDesc">Puts, reporta ai por favor…</string>
@@ -150,7 +152,6 @@
     <string name="q23" translatable="false">9</string>
 
 parei no (az)
-
 
     <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 

@@ -4,59 +4,154 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/gogBranco"
-    tools:context=".figurinhasFragment">
+    android:background="@color/grayButton"
+    tools:context=".figurinhasFragment"
+    tools:ignore="ContentDescription">
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guidelineD24dp"
+        android:id="@+id/guidelineDir"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_begin="50dp" />
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline2"
+        android:id="@+id/guidelineEsq"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_end="50dp" />
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline3"
+        android:id="@+id/guidelineCenterVerticalPrincipal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.5" />
 
     <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline4"
+        android:id="@+id/guidelineCenterHorizontalPrincipal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         app:layout_constraintGuide_percent="0.5" />
 
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guidelineBottomNavgationView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="65dp" />
+
+    <ImageView
+        android:id="@+id/imgBackgroundTitle"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:elevation="0dp"
+        android:src="@drawable/c_btn_triangule_fig"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_title_figurinhas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/viewPreenchimentoBackground"
+        android:layout_width="10dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="22dp"
+        android:background="@color/azulDark4A"
+        app:layout_constraintBottom_toBottomOf="@+id/imgBackgroundTitle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/guidelineEsq"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <TextView
         android:id="@+id/txt_title_figurinhas"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="88dp"
-        android:text="Figurinhas"
-        android:textColor="@color/gogPreto"
-        android:textSize="30sp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="78dp"
+        android:elevation="1dp"
+        android:paddingBottom="30dp"
+        android:text="Audios e Figurinhas"
+        android:textColor="@color/gogBranco"
+        android:textSize="26sp"
+        android:textStyle="normal"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/btn_figurinhas_4amigos"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="figurinhas"
-        android:textColor="@color/azul4A"
-        android:visibility="visible"
-        app:layout_constraintBottom_toTopOf="@+id/guideline4"
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardFig"
+        android:layout_width="0dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="5dp"
+        app:cardMaxElevation="7dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/guideline4" />
+        app:layout_constraintTop_toBottomOf="@+id/imgBackgroundTitle">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imgLogoCardFigurinhas"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/c_garantia"
+                app:layout_constraintBottom_toTopOf="@+id/guidelineCardCenterHorizontal"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guidelineCardCenterHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.5" />
+
+            <TextView
+                android:id="@+id/txtTitleCardFigurinhas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="Figurinhas"
+                android:textColor="@color/grayButtonPrimaryText"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toTopOf="@+id/imgLogoCardFigurinhas"
+                app:layout_constraintStart_toEndOf="@+id/imgLogoCardFigurinhas"
+                app:layout_constraintTop_toBottomOf="@+id/imgLogoCardFigurinhas" />
+
+            <TextView
+                android:id="@+id/txtSobreCardFigurinhas"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginEnd="24dp"
+                android:text="Figurinhas super engraçadas de vários comediantes além dos 4AMIGOS."
+                android:textColor="@color/grayButtonSecundaryText"
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/imgLogoCardFigurinhas"
+                app:layout_constraintTop_toTopOf="@+id/guidelineCardCenterHorizontal" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/imgNewCardFigurinhas"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:elevation="5dp"
+        android:src="@drawable/c_new"
+        app:layout_constraintBottom_toBottomOf="@+id/cardFig"
+        app:layout_constraintEnd_toEndOf="@+id/cardFig"
+        app:layout_constraintTop_toTopOf="@+id/cardFig"
+        app:layout_constraintVertical_bias="0.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

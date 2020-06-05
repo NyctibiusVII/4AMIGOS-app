@@ -4,9 +4,9 @@
   "sticker_packs": [
     { 
       "identifier": "1",
-      "name": "Thiago",
+      "name": "Thiago Ventura",
       "publisher": "Armax7",
-      "tray_image_file": "caradotigas.webp",
+      "tray_image_file": "bomdiakk.webp",
       "image_data_version":"1",
       "avoid_cache":false,
       "publisher_email":"",
@@ -15,12 +15,8 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "aemeualiado.webp",
+          "image_file": "boanoite.webp",
           "emojis": ["☕","🙂"]
-        },
-        {
-          "image_file": "amanakichamana.webp",
-          "emojis": ["😄","😀"]
         },
         {
           "image_file": "bomdiakk.webp",
@@ -31,76 +27,76 @@
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "chaaputajatogrossoviado.webp",
+          "image_file": "carai14andar.webp",
           "emojis": ["😱","😵"]
         },
         {
-          "image_file": "eaifirmeza.webp",
+          "image_file": "cumprimentaosmininoaioarrombado.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "essapiadaeprapoucos.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "euqueroveeunir.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "fala300fala300.webp",
+          "image_file": "eaefirmao.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "han14andar.webp",
+          "image_file": "eitapoha.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "evcquenasceuumpalnocu.webp",
           "emojis": ["🤔","😐"]
         },
         {
-          "image_file": "hocesperderamem.webp",
+          "image_file": "fala300.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "meudeus.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "ohpovodesocupadodocarai.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "ohseisperderamem.webp",
           "emojis": ["😱","😵"]
         },
         {
-          "image_file": "kraiiicuzaoooo.webp",
+          "image_file": "pintcher-naoseicomoseescreve_foda-se.webp",
           "emojis": ["❓","🤔"]
         },
         {
-          "image_file": "leonardodavinci.webp",
+          "image_file": "queroveeunirnessapohaaifi.webp",
           "emojis": ["🌈","😜"]
         },
         {
-          "image_file": "naoconfia.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "seupaisoeu.webp",
+          "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "naoequeo14vemdepoisdo13.webp",
-          "emojis": ["🤔","😐"]
-        },
-        {
-          "image_file": "oseisperderamem.webp",
+          "image_file": "tigasandando.webp",
           "emojis": ["😱","😵"]
         },
         {
-          "image_file": "pocaszideia.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "tigasnoescorrega.webp",
+          "emojis": ["😱","😵"]
         },
         {
-          "image_file": "pohadormicuzao.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "tigasrindo.webp",
+          "emojis": ["😆","😂"]
         },
         {
-          "image_file": "ritaa.webp",
-          "emojis": ["🤮","👎"]
-        },
-        {
-          "image_file": "seupaisoueu.webp",
+          "image_file": "tomandosorvethx.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "soagradece.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "tristao.webp",
+          "emojis": ["😩","😰"]
         },
         {
-          "image_file": "vailavarumaslocacarai.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "vocetabem.webp",
+          "emojis": ["🤔","💔"]
         }
       ]
     },

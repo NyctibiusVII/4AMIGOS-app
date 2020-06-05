@@ -130,6 +130,7 @@ dependencies {
     implementation "com.facebook.fresco:webpsupport:$fresco_version"
     implementation "com.facebook.fresco:animated-webp:$fresco_version"
     implementation "com.facebook.fresco:animated-base:$fresco_version"
+    implementation 'androidx.gridlayout:gridlayout:1.0.0'
 //    implementation 'com.google.android.gms:play-services-ads:18.1.1'
 
 }

@@ -15,7 +15,8 @@
     <!--MAIN-->
     <style name="main" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorAccent">@color/verde4A</item>
-        <item name="android:statusBarColor">@color/colorStatusBarGray</item>
+        <item name="android:statusBarColor">@color/azulDark4A</item>
+<!--        <item name="android:statusBarColor">@color/colorStatusBarGray</item>-->
     </style>
     <!--sobreACT-->
     <style name="sobreACT" parent="Theme.AppCompat.NoActionBar">
@@ -51,8 +52,16 @@
         <item name="actionBarTheme">@style/MyApp.ActionBarTheme</item>
     </style>
 
+    <!--sticker pack list-->
+    <style name="sticker_pack_list" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/gogBranco</item>
+        <item name="colorPrimaryDark">@color/invisivel</item>
+        <item name="colorAccent">@color/verde4A</item>
+        <item name="android:statusBarColor">@color/colorStatusBarGray</item>
+    </style>
+
     <!--sticker pack detail-->
-    <style name="sticker_pack_detail" parent="Theme.AppCompat.DayNight.NoActionBar">
+    <style name="sticker_pack_detail" parent="Theme.MaterialComponents.Light">
         <item name="colorPrimary">@color/gogBranco</item>
         <item name="colorPrimaryDark">@color/invisivel</item>
         <item name="colorAccent">@color/verde4A</item>

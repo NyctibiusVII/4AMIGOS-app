@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY">
-    <!--    package="com.facebook.soloader"-->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -12,7 +11,6 @@
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
 
     <application
-
         android:name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.StickerApplication"
         android:allowBackup="false"
         android:fullBackupContent="false"
@@ -50,26 +48,41 @@
             android:screenOrientation="portrait"
             android:theme="@style/sobreACT"
             tools:ignore="LockedOrientationActivity"
-            tools:targetApi="o" />
+            tools:targetApi="o">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.MainActivity" />
+        </activity>
         <activity
             android:name=".sobre_oAmigo_Activity"
             android:parentActivityName=".MainActivity"
             android:label=""
             android:screenOrientation="portrait"
             android:theme="@style/sobre_o_amigo"
-            tools:ignore="LockedOrientationActivity"/>
+            tools:ignore="LockedOrientationActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.MainActivity" />
+        </activity>
         <activity
             android:name=".EntryActivity"
             android:theme="@style/Entry"/>
         <activity
             android:name=".StickerPackListActivity"
+            android:theme="@style/sticker_pack_list"
+            android:screenOrientation="portrait"
             android:parentActivityName=".MainActivity"
-            android:theme="@style/sticker_pack_detail"/>
+            tools:ignore="UnusedAttribute, LockedOrientationActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.MainActivity" />
+        </activity>
         <activity
             android:name=".StickerPackDetailsActivity"
             android:theme="@style/sticker_pack_detail"
+            android:screenOrientation="portrait"
             android:parentActivityName=".StickerPackListActivity"
-            tools:ignore="UnusedAttribute">
+            tools:ignore="UnusedAttribute, LockedOrientationActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY.StickerPackListActivity" />

@@ -34,22 +34,22 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <View
-            android:id="@+id/dividerView"
-            android:layout_width="wrap_content"
-            android:layout_height="1dp"
-            android:alpha="0.1"
-            android:background="@android:color/black"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
+<!--        <View-->
+<!--            android:id="@+id/dividerView"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="1dp"-->
+<!--            android:alpha="0.1"-->
+<!--            android:background="@android:color/black"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintStart_toStartOf="parent" />-->
 
         <Space
             android:id="@+id/space"
             android:layout_width="wrap_content"
             android:layout_height="8dp"
-            app:layout_constraintBottom_toTopOf="@+id/dividerView"
-            app:layout_constraintStart_toStartOf="@+id/dividerView"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/sticker_packs_list_item_image_list"
             app:layout_constraintTop_toBottomOf="@+id/sticker_packs_list_item_image_list" />
 
         <LinearLayout

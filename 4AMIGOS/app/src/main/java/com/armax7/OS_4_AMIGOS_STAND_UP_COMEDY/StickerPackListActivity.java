@@ -32,14 +32,11 @@ public class StickerPackListActivity extends AddStickerPackActivity {
     private WhiteListCheckAsyncTask whiteListCheckAsyncTask;
     private ArrayList<StickerPack> stickerPackList;
 
-    private ViewHolder mViewHolder = new ViewHolder();
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sticker_pack_list);
 
-        this.mViewHolder.toolbarBackMain = findViewById(R.id.toolbarBackList);
         packRecyclerView = findViewById(R.id.sticker_pack_list);
         stickerPackList = getIntent().getParcelableArrayListExtra(EXTRA_STICKER_PACK_LIST_DATA);
 
@@ -47,18 +44,8 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         if (getSupportActionBar() != null) {
             getSupportActionBar().setTitle(getResources().getQuantityString(R.plurals.title_activity_sticker_packs_list, stickerPackList.size()));
         }
-        setUpToolbar();
     }
 
-    //metodo que implementa botão(seta) de voltar para o pai dela na hierarquia declarada no manifest.
-    protected void setUpToolbar() {
-        if(this.mViewHolder.toolbarBackMain != null){
-//            seta um suporte de actionBar para toolBar.
-            setSupportActionBar(this.mViewHolder.toolbarBackMain);
-            Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
-            // USE(substitua) em caso de erro! com o código acima - getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        }
-    }
     @Override
     protected void onResume() {
         super.onResume();
@@ -133,8 +120,5 @@ public class StickerPackListActivity extends AddStickerPackActivity {
                 stickerPackListActivity.allStickerPacksListAdapter.notifyDataSetChanged();
             }
         }
-    }
-    private static class ViewHolder {
-        private Toolbar toolbarBackMain;
     }
 }

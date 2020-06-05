@@ -19,6 +19,11 @@
         <color name="colorDividerText">#BDBDBD</color>
         <color name="colorLightGray">#F1F1F1</color>
 
+        <color name="grayButton">#F5F5F5</color>
+        <color name="grayButtonSecundary">#E0E0E0</color>
+        <color name="grayButtonPrimaryText">#757575</color>
+        <color name="grayButtonSecundaryText">#B3B3B3</color>
+
         <color name="colorStatusBarGray">#E8E8E8</color>
         <!-- ...GOOGLE.............................................................................. -->
         <color name="gogBranco">#FFFFFF</color>

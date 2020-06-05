@@ -3,6 +3,8 @@
   <component name="AndroidLayouts">
     <shared>
       <config>
+        <device id="pixel_3" />
+        <device id="pixel_3a" />
         <locale>pt</locale>
       </config>
     </shared>
@@ -13,8 +15,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68f0ebab-f49f-4b5a-9f14-6feae465bd12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.github/workflows/android.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.github/workflows/android.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/boanoite.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/carai14andar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/cumprimentaosmininoaioarrombado.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/eaefirmao.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/eitapoha.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/evcquenasceuumpalnocu.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/fala300.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/meudeus.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/ohpovodesocupadodocarai.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/ohseisperderamem.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/pintcher-naoseicomoseescreve_foda-se.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/queroveeunirnessapohaaifi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/seupaisoeu.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/tigasandando.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/tigasnoescorrega.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/tigasrindo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/tomandosorvethx.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/tristao.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/1/vocetabem.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c_btn_triangule_fig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c_dedo_apontando.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c_garantia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c_notas_musicais.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c_sticker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_btn_defalt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_btn_pressed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/aemeualiado.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/amanakichamana.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/caradotigas.webp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/1/caradotigas.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/chaaputajatogrossoviado.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/eaifirmeza.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/essapiadaeprapoucos.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/euqueroveeunir.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/fala300fala300.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/han14andar.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/hocesperderamem.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/kraiiicuzaoooo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/leonardodavinci.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/naoconfia.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/naoequeo14vemdepoisdo13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/oseisperderamem.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/pocaszideia.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/pohadormicuzao.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/ritaa.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/seupaisoueu.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/soagradece.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/1/vailavarumaslocacarai.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerPackDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerPackDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerPackListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerPackListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/figurinhasFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/figurinhasFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_details.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sticker_pack_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_comediantes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_comediantes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_figurinhas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_figurinhas.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sobre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_sobre.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sticker_packs_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/teste_de_layouts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/teste_de_layouts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +101,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_R_padrao_" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="0048692005" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -40,6 +119,7 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -55,17 +135,21 @@
     <property name="BundleExportedModule" value="app" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="0048692005" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-02T19:31:00.179Z" />
-    <property name="android.recentlyUsedThemes" value="Base.Theme.AppCompat.Light.DarkActionBar" />
+    <property name="android.recentlyUsedThemes" value="sticker_pack_detail&#10;Base.Theme.AppCompat.Light.DarkActionBar" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\server\www\projetos_android\git\4AMIGOS-app\4AMIGOS\app\src\main\res\drawable" />
       <recent name="D:\server\www\projetos_android\git\4AMIGOS-app\4AMIGOS\app\src\main\assets\1" />
+      <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets" />
+      <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets\2" />
+      <recent name="C:\Android_new_versions\Android_Projetos\stickers-2dfb43629dd83600a9596f299d4a3fbac62ba7a7\Android\app\src\main\java\com\armax7\OS_4_AMIGOS_STAND_UP_COMEDY" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY" />
@@ -76,12 +160,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.armax7.OS_4_AMIGOS_STAND_UP_COMEDY" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\server\www\projetos_android\git\4AMIGOS-app\4AMIGOS\app\src\main\assets\1" />
-      <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets" />
-      <recent name="C:\Android_new_versions\Android_Projetos\4AMIGOS\Android\app\src\main\assets\2" />
-      <recent name="C:\Android_new_versions\Android_Projetos\stickers-2dfb43629dd83600a9596f299d4a3fbac62ba7a7\Android\app\src\main\java\com\armax7\OS_4_AMIGOS_STAND_UP_COMEDY" />
-      <recent name="C:\Android_new_versions\Android_Projetos\stickers-2dfb43629dd83600a9596f299d4a3fbac62ba7a7\Android\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,5 +264,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/armax7/OS_4_AMIGOS_STAND_UP_COMEDY/StickerPackDetailsActivity.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

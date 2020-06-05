@@ -31,57 +31,18 @@
         app:layout_constraintGuide_begin="84dp" />
 
     <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
             android:orientation="vertical">
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="166dp"
-                android:background="@color/azulDark4A"
-                android:orientation="horizontal">
-
-                <ImageView
-                    android:id="@+id/img_4amigos_sobre"
-                    android:layout_width="70dp"
-                    android:layout_height="70dp"
-                    android:layout_gravity="bottom|start|center_vertical"
-                    android:layout_marginLeft="16dp"
-                    android:layout_marginBottom="16dp"
-                    android:src="@drawable/b_logo_4_amigos" />
-
-                <TextView
-                    android:id="@+id/txt_title_4amigos_sobre"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="bottom|start|center_vertical"
-                    android:layout_marginBottom="10dp"
-                    android:layout_weight="1"
-                    android:breakStrategy="high_quality"
-                    android:fontFamily="@font/rajdhani_bold"
-                    android:paddingStart="10dp"
-                    android:singleLine="false"
-                    android:text="@string/_4_amigos_stand_up_comedy"
-                    android:textAlignment="viewStart"
-                    android:textColor="@color/gogBranco"
-                    android:textSize="23sp"
-                    android:translationZ="4dp" />
-
-                <Space
-                    android:layout_width="100dp"
-                    android:layout_height="1dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_weight="1" />
-            </LinearLayout>
 
             <ListView
                 android:id="@+id/minhaLista"
@@ -238,6 +199,49 @@
 
         </LinearLayout>
     </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        android:background="@color/azulDark4A"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/img_4amigos_sobre"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom|start|center_vertical"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp"
+            android:src="@drawable/b_logo_4_amigos" />
+
+        <TextView
+            android:id="@+id/txt_title_4amigos_sobre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|start|center_vertical"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:breakStrategy="high_quality"
+            android:fontFamily="@font/rajdhani_bold"
+            android:paddingStart="10dp"
+            android:singleLine="false"
+            android:text="@string/_4_amigos_stand_up_comedy"
+            android:textAlignment="viewStart"
+            android:textColor="@color/gogBranco"
+            android:textSize="23sp"
+            android:translationZ="4dp" />
+
+        <Space
+            android:layout_width="100dp"
+            android:layout_height="1dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1" />
+    </LinearLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

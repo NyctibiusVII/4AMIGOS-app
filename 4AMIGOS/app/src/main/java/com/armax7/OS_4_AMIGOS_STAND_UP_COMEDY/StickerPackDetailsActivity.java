@@ -45,7 +45,6 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
     public static final String EXTRA_SHOW_UP_BUTTON = "show_up_button";
     public static final String EXTRA_STICKER_PACK_DATA = "sticker_pack";
 
-
     private ViewHolder mViewHolder = new ViewHolder();
 
     @Override
@@ -59,7 +58,6 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
         ImageView packTrayIcon = findViewById(R.id.tray_image);
         TextView packSizeTextView = findViewById(R.id.pack_size);
 
-        this.mViewHolder.toolbarBackList = findViewById(R.id.toolbarBackList);
         mViewHolder.addButton = findViewById(R.id.add_to_whatsapp_button);
         mViewHolder.alreadyAddedText = findViewById(R.id.already_added_text);
         mViewHolder.layoutManager = new GridLayoutManager(this, 1);
@@ -80,17 +78,6 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(showUpButton);
             getSupportActionBar().setTitle(showUpButton ? getResources().getString(R.string.title_activity_sticker_pack_details_multiple_pack) : getResources().getQuantityString(R.plurals.title_activity_sticker_packs_list, 1));
-        }
-        setUpToolbar();
-    }
-
-    //metodo que implementa botão(seta) de voltar para o pai dela na hierarquia declarada no manifest.
-    protected void setUpToolbar() {
-        if(this.mViewHolder.toolbarBackList != null){
-//            seta um suporte de actionBar para toolBar.
-//            setSupportActionBar(this.mViewHolder.toolbarBackList);
-//            Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
-            // USE(substitua) em caso de erro! com o código acima - getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
     }
 
@@ -120,7 +107,6 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
 
     private final ViewTreeObserver.OnGlobalLayoutListener pageLayoutListener = new ViewTreeObserver.OnGlobalLayoutListener() {
         @Override
@@ -220,7 +206,5 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
         private StickerPack stickerPack;
         private View divider;
         private WhiteListCheckAsyncTask whiteListCheckAsyncTask;
-
-        private Toolbar toolbarBackList;
     }
 }
