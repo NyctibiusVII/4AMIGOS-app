@@ -9,7 +9,7 @@
 
     <!-- FRAGMENT SOBRE #########################################################################-->
     <string name="_4_amigos_stand_up_comedy" translatable="false">4 AMIGOS - STAND UP COMEDY</string>
-    <string name="title_activity_sobre4amigos">Sobre os 4 Amigos</string>
+    <string name="title_activity_sobre4amigos">Sobre o 4 Amigos</string>
     <string name="btn_sobre_o_4_amigos">Sobre o 4 AMIGOS</string>
     <string name="btn_loja_ofical">Loja ofical</string>
     <string name="btn_remover_propagandas">Remover propagandas</string>

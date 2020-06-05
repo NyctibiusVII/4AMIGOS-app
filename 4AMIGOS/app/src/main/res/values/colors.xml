@@ -10,6 +10,8 @@
         <color name="actionBarArrowColor">@color/colorAccent</color>
 
         <color name="verdeZap">#128C7E</color>
+        <color name="azulq1">#E51856FF</color>
+        <color name="azulq2">#E50381FF</color>
 
         <color name="colorLight">#EDFFF9</color>
         <color name="invisivel">#00FFFFFF</color>

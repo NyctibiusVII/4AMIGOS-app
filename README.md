@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/platform-Android-lightgrey">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/vers%C3%A3o-alpha%200.1-green">
+    <img src="https://img.shields.io/badge/vers%C3%A3o-alpha%200.2-green">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/app-no%20published-red">
@@ -40,7 +40,9 @@ Caso a equipe tenha interese neste app, favor entrar em contato via e-mail.
 ...
 
 ## O que há de novo? 🤔
-...
+05/06/2020 - versão alpha 0.2
+- Ajustes e polimentos no layout (fragment_figurinhas)
+- Implementado actionBar (activity_sticker_pack_list e activity_sticker_pack_details)
 
 ## Desenvolvimento 🔨
 em desenvolvimento...
