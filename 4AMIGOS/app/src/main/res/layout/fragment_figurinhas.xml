@@ -41,16 +41,32 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
+                <androidx.constraintlayout.widget.Guideline
+                    android:id="@+id/guideline3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    app:layout_constraintGuide_begin="64dp" />
+
+                <androidx.constraintlayout.widget.Guideline
+                    android:id="@+id/guideline4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    app:layout_constraintGuide_end="64dp" />
+
                 <androidx.cardview.widget.CardView
                     android:id="@+id/cardFig"
                     android:layout_width="0dp"
                     android:layout_height="125dp"
                     android:layout_marginStart="16dp"
-                    android:layout_marginTop="70dp"
+                    android:layout_marginTop="8dp"
                     android:layout_marginEnd="16dp"
+                    android:layout_marginBottom="70dp"
                     app:cardCornerRadius="5dp"
                     app:cardElevation="5dp"
                     app:cardMaxElevation="7dp"
+                    app:layout_constraintBottom_toTopOf="@+id/visualizer"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent">
@@ -112,17 +128,43 @@
                     app:layout_constraintEnd_toEndOf="@+id/cardFig"
                     app:layout_constraintTop_toTopOf="@+id/cardFig" />
 
+                <TextView
+                    android:id="@+id/textView24"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginBottom="16dp"
+                    android:text="O sistema de aúdio está na versão beta e será alterado em breve. \n \n Deixe seu feedback de como posso melhorar este sistema."
+                    android:textColor="@color/grayButtonSecundaryText"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="@+id/tableLayout"
+                    app:layout_constraintStart_toStartOf="@+id/tableLayout"
+                    app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
+
+                <!-- <com.chibde.visualizer.LineVisualizer -->
+                <com.chibde.visualizer.LineBarVisualizer
+                    android:id="@+id/visualizer"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+                    app:layout_constraintEnd_toStartOf="@+id/guideline4"
+                    app:layout_constraintStart_toStartOf="@+id/guideline3"
+                    app:layout_constraintTop_toBottomOf="@+id/cardFig"
+                    app:layout_constraintVertical_bias="1.0" />
+
                 <TableLayout
+                    android:id="@+id/tableLayout"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="16dp"
-                    android:layout_marginTop="24dp"
                     android:layout_marginEnd="16dp"
                     android:layout_marginBottom="16dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/cardFig">
+                    app:layout_constraintTop_toBottomOf="@+id/visualizer">
 
                     <TableRow
                         android:layout_width="match_parent"
@@ -130,7 +172,7 @@
                         android:gravity="center">
 
                         <Button
-                            android:id="@+id/button7"
+                            android:id="@+id/btA01"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -139,7 +181,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button5"
+                            android:id="@+id/btA02"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -148,12 +190,12 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button6"
+                            android:id="@+id/btA03"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:background="@drawable/c_btn_sounds_round_top_right"
-                            android:drawableTop="@drawable/c_audiotrack"
+                            android:drawableTop="@drawable/c_pause"
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                     </TableRow>
@@ -164,7 +206,7 @@
                         android:gravity="center">
 
                         <Button
-                            android:id="@+id/button19"
+                            android:id="@+id/btA04"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -173,7 +215,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button20"
+                            android:id="@+id/btA05"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -182,7 +224,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button21"
+                            android:id="@+id/btA06"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -197,7 +239,7 @@
                         android:gravity="center">
 
                         <Button
-                            android:id="@+id/button11"
+                            android:id="@+id/btA07"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -206,7 +248,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button12"
+                            android:id="@+id/btA08"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -215,7 +257,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button13"
+                            android:id="@+id/btA09"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -231,7 +273,7 @@
                         android:gravity="center">
 
                         <Button
-                            android:id="@+id/button2"
+                            android:id="@+id/btA10"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -240,7 +282,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button8"
+                            android:id="@+id/btA11"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -249,7 +291,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button9"
+                            android:id="@+id/btA12"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -265,7 +307,7 @@
                         android:gravity="center">
 
                         <Button
-                            android:id="@+id/button131"
+                            android:id="@+id/btA13"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -274,7 +316,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button1253"
+                            android:id="@+id/btA14"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -283,7 +325,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button13987"
+                            android:id="@+id/btA15"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -299,7 +341,7 @@
                         android:gravity="center">
 
                         <Button
-                            android:id="@+id/button4"
+                            android:id="@+id/btA16"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -308,7 +350,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button14"
+                            android:id="@+id/btA17"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -317,7 +359,7 @@
                             android:drawableBottom="@drawable/c_fita_branca_sound" />
 
                         <Button
-                            android:id="@+id/button15"
+                            android:id="@+id/btA18"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -327,6 +369,15 @@
 
                     </TableRow>
                 </TableLayout>
+
+                <TextView
+                    android:id="@+id/textView25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="none"
+                    android:textColor="@color/azulq1"
+                    app:layout_constraintBottom_toTopOf="@+id/visualizer"
+                    app:layout_constraintStart_toStartOf="@+id/guideline3" />
 
             </androidx.constraintlayout.widget.ConstraintLayout>
         </LinearLayout>
