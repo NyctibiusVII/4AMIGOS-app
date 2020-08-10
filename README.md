@@ -7,7 +7,7 @@
   4AMIGOS
   <br>
 </h1>
-<h4 align="center">Aplicativo para compartilhar a zueira, figurinhas engraçadas dos comediantes, audios e piadas. Para quem não os conhece, recomendo <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4AMIGOS</a>.</h4>
+<h4 align="center">Aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas. Para quem não os conhece, recomendo <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4AMIGOS</a>.</h4>
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/platform-Android-lightgrey">
