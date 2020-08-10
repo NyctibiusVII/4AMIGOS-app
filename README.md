@@ -18,7 +18,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/app-no%20published-red">
   </a>
-  <a href="https://picpay.me/Matheus_Armax7">
+  <a href="https://picpay.me/Matheus_nyctibius_vii">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
@@ -53,7 +53,7 @@ em desenvolvimento...
 ## Contribuição 💭
 Adoraría aceitar seus patches e contribuições para este projeto. Fico muito grato, sinta-se a vontade para fazer suas alterações de acordo com o que está estabelecido na licença Apache-2.0, quero muito que esse projeto cresça!
 
-Caso goste do projeto me apoie com um donate simples no picpay: <a href="https://picpay.me/Matheus_Armax7">@Matheus_Armax7</a> , vocês não tem ideia do quão isso irá me incentivar. 
+Caso goste do projeto me apoie com um donate simples no picpay: <a href="https://picpay.me/Matheus_nyctibius_vii">@Matheus_nyctibius_vii</a> , vocês não tem ideia do quão isso irá me incentivar. 
 
 Outra forma de contribuição seria você baixar e fazer uso do meu app na Google Play.
 
