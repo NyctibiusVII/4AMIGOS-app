@@ -128,7 +128,7 @@ dependencies {
     //line-visualizer
     implementation 'com.chibde:audiovisualizer:2.1.0'
 
-    def fresco_version = '2.2.0'
+    def fresco_version = '2.3.0'
     implementation "com.facebook.fresco:fresco:$fresco_version"
     implementation "com.facebook.fresco:webpsupport:$fresco_version"
     implementation "com.facebook.fresco:animated-webp:$fresco_version"

@@ -43,7 +43,7 @@ public class figurinhasFragment extends Fragment {
         Objects.requireNonNull(getActivity()).setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         mediaPlayer = new MediaPlayer();
 //        mediaPlayer.setWakeMode(getApplicationContext(), PowerManager.PARTIAL_WAKE_LOCK);
-
+ 
 //        this.mViewHolder.lineVisualizer = rootView.findViewById(R.id.visualizer);
 //        this.mViewHolder.lineVisualizer.setColor(ContextCompat.getColor(Objects.requireNonNull(getContext()), R.color.azulq1));
 //        // defini a linha com para o visualizador entre 1 e 10 padrão 1
