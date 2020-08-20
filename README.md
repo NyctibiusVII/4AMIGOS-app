@@ -5,7 +5,7 @@
     </a>
   <!--<br><h1>4AMIGOS</h1><br>-->
 </p>
-<h4 align="center">ᴀᴘʟɪᴄᴀᴛɪᴠᴏ ᴘᴀʀᴀ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴀ ᴢᴏᴇɪʀᴀ, ғɪɢᴜʀɪɴʜᴀs ᴇɴɢʀᴀᴄᴀᴅᴀs ᴅᴏs ᴄᴏᴍᴇᴅɪᴀɴᴛᴇs, ᴀᴜᴅɪᴏs ᴇ ᴘɪᴀᴅᴀs. ᴘᴀʀᴀ ǫᴜᴇᴍ ɴᴀᴏ ᴏs ᴄᴏɴʜᴇᴄᴇ, ʀᴇᴄᴏᴍᴇɴᴅᴏ <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank"><b>4ᴀᴍɪɢᴏs</b></a>.</h4>
+<h4 align="center">ᴀᴘʟɪᴄᴀᴛɪᴠᴏ ᴘᴀʀᴀ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴀ ᴢᴏᴇɪʀᴀ, ғɪɢᴜʀɪɴʜᴀs ᴇɴɢʀᴀᴄᴀᴅᴀs ᴅᴏs ᴄᴏᴍᴇᴅɪᴀɴᴛᴇs, ᴀᴜᴅɪᴏs ᴇ ᴘɪᴀᴅᴀs. ᴘᴀʀᴀ ǫᴜᴇᴍ ɴᴀᴏ ᴏs ᴄᴏɴʜᴇᴄᴇ, ʀᴇᴄᴏᴍᴇɴᴅᴏ <b><a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4ᴀᴍɪɢᴏs</a></b>.</h4>
 <p align="center">
   <img alt="Versão" src="https://img.shields.io/static/v1?label=Version&message=alpha-0.2&color=greeen&labelColor=000000">
   <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Platform&message=Android&color=greeen&labelColor=000000">
@@ -23,6 +23,11 @@
   <a href="#resumo-%EF%B8%8F">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades-%EF%B8%8F">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="">Download</a>
+</p>
+<p align="center">
+    <a href="README-in.md">Inglês</a>
+    ·
+    <a href="README.md">Português</a>
 </p>
 <br><!--green and blue: #4dc71f, #0d0d8a ou #409900, #041760-->
 <h1><span style="color: #409900;">4AMIGOS </span><span style="color: #041760;">APP </span>🤣</h2>
