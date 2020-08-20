@@ -1,11 +1,11 @@
-<h1 align="center">
+<p align="center">
   <br>
     <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg">
       <img src="images/b_logo_4_amigos.png" width="250">
     </a>
-  <!--<br>4AMIGOS<br>-->
-</h1>
-<h4 align="center">Aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas. Para quem não os conhece, recomendo <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4AMIGOS</a>.</h4>
+  <!--<br><h1>4AMIGOS</h1><br>-->
+</p>
+<h4 align="center">ᴀᴘʟɪᴄᴀᴛɪᴠᴏ ᴘᴀʀᴀ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴀ ᴢᴏᴇɪʀᴀ, ғɪɢᴜʀɪɴʜᴀs ᴇɴɢʀᴀᴄᴀᴅᴀs ᴅᴏs ᴄᴏᴍᴇᴅɪᴀɴᴛᴇs, ᴀᴜᴅɪᴏs ᴇ ᴘɪᴀᴅᴀs. ᴘᴀʀᴀ ǫᴜᴇᴍ ɴᴀᴏ ᴏs ᴄᴏɴʜᴇᴄᴇ, ʀᴇᴄᴏᴍᴇɴᴅᴏ <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4ᴀᴍɪɢᴏs</a>.</h4>
 <p align="center">
   <img alt="Versão" src="https://img.shields.io/static/v1?label=Version&message=alpha-0.2&color=greeen&labelColor=000000">
   <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Platform&message=Android&color=greeen&labelColor=000000">
