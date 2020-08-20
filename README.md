@@ -5,12 +5,12 @@
     </a>
   <!--<br><h1>4AMIGOS</h1><br>-->
 </p>
-<h4 align="center">ᴀᴘʟɪᴄᴀᴛɪᴠᴏ ᴘᴀʀᴀ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴀ ᴢᴏᴇɪʀᴀ, ғɪɢᴜʀɪɴʜᴀs ᴇɴɢʀᴀᴄᴀᴅᴀs ᴅᴏs ᴄᴏᴍᴇᴅɪᴀɴᴛᴇs, ᴀᴜᴅɪᴏs ᴇ ᴘɪᴀᴅᴀs. ᴘᴀʀᴀ ǫᴜᴇᴍ ɴᴀᴏ ᴏs ᴄᴏɴʜᴇᴄᴇ, ʀᴇᴄᴏᴍᴇɴᴅᴏ <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4ᴀᴍɪɢᴏs</a>.</h4>
+<h4 align="center">ᴀᴘʟɪᴄᴀᴛɪᴠᴏ ᴘᴀʀᴀ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴀ ᴢᴏᴇɪʀᴀ, ғɪɢᴜʀɪɴʜᴀs ᴇɴɢʀᴀᴄᴀᴅᴀs ᴅᴏs ᴄᴏᴍᴇᴅɪᴀɴᴛᴇs, ᴀᴜᴅɪᴏs ᴇ ᴘɪᴀᴅᴀs. ᴘᴀʀᴀ ǫᴜᴇᴍ ɴᴀᴏ ᴏs ᴄᴏɴʜᴇᴄᴇ, ʀᴇᴄᴏᴍᴇɴᴅᴏ <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank"><b>4ᴀᴍɪɢᴏs</b></a>.</h4>
 <p align="center">
   <img alt="Versão" src="https://img.shields.io/static/v1?label=Version&message=alpha-0.2&color=greeen&labelColor=000000">
   <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Platform&message=Android&color=greeen&labelColor=000000">
   <img alt="PlayStory" src="https://img.shields.io/static/v1?label=App&message=No-published&color=greeen&labelColor=000000">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Sistema-de-seguranca-a-laser?color=darkblue&labelColor=000000">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/4AMIGOS-app?color=darkblue&labelColor=000000">
   <a href="https://github.com/NyctibiusVII/4AMIGOS-app/blob/master/LICENSE">
     <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=Apache-2.0&color=darkblue&labelColor=000000">
   </a>
