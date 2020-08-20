@@ -29,9 +29,10 @@
     ·
     <a href="README.md">Português</a>
 </p>
-<br><!--green and blue: #4dc71f, #0d0d8a ou #409900, #041760-->
-<h1><span style="color: #409900;">4AMIGOS </span><span style="color: #041760;">APP </span>🤣</h2>
+<br><!--green and blue: #4dc71f, #0d0d8a ou #409900, #041760
+<h1><span style="color: #409900;">4AMIGOS </span><span style="color: #041760;">APP </span>🤣</h2>-->
 
+## 4AMIGOS APP 🤣
 Esse é um aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas.
 O aplicativo **NÃO É OFICIAL** dos 4AMIGOS, ele foi desenvolvido por um fã(eu) para demonstrar o reconhecimento do trabalho excelente que eles fazem e compartilhar parte dela para outras pessoas.
 

@@ -29,9 +29,10 @@
     ·
     <a href="README.md">Português</a>
 </p>
-<br><!--green and blue: #4dc71f, #0d0d8a ou #409900, #041760-->
-<h1><span style="color: #409900;">4AMIGOS </span><span style="color: #041760;">APP </span>🤣</h2>
+<br><!--green and blue: #4dc71f, #0d0d8a ou #409900, #041760
+<h1><span style="color: #409900;">4AMIGOS </span><span style="color: #041760;">APP </span>🤣</h2>-->
 
+## 4AMIGOS APP 🤣
 This is an application to share the fun, funny stickers of comedians, audios and jokes.
 The application **NOT OFFICIAL** of "4AMIGOS", it was developed by a fan (me) to demonstrate recognition of the excellent work they do and share part of it with others.
 
