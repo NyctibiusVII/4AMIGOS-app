@@ -53,7 +53,7 @@ em desenvolvimento...
 ## Contribuição 💭
 Adoraría aceitar seus patches e contribuições para este projeto. Fico muito grato, sinta-se a vontade para fazer suas alterações de acordo com o que está estabelecido na licença Apache-2.0, quero muito que esse projeto cresça!
 
-Caso goste do projeto me apoie com um donate simples no picpay: <a href="https://picpay.me/Matheus_nyctibius_vii">@Matheus_nyctibius_vii</a> , vocês não tem ideia do quão isso irá me incentivar. 
+Caso goste do projeto me apoie com um donate simples no Picpay: <a href="https://picpay.me/Matheus_nyctibius_vii">@Matheus_nyctibius_vii</a> , vocês não tem ideia do quão isso irá me incentivar. 
 
 Outra forma de contribuição seria você baixar e fazer uso do meu app na Google Play.
 
@@ -61,7 +61,7 @@ Outra forma de contribuição seria você baixar e fazer uso do meu app na Googl
 	<img src="https://user-images.githubusercontent.com/52816125/81919299-0d682a80-95ae-11ea-9616-29ef04d36769.png" width="160">
 </a>
 
-**disponivel em breve...**
+**disponível em breve...**
 
 ## Criador 👨‍💻
 Olá para quem está lendo, quem fala é um adolescente de 18 anos, me chamo Matheus de Oliveira Vidigal Peixoto Dias e... sim meu nome é grande kk, moro em são paulo e fiz um curso técnico em uma ong chamada [CEAP PEDREIRA](https://pedreira.org/) onde estudei muitas linguagens e tecnologias que hoje são minha base. 
@@ -72,9 +72,14 @@ Bom.. sou novo nessa área de tecnologia mobile, começei em janeiro deste ano(2
 Esse projeto está sob a licença Apache-2.0. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/4AMIGOS-app/blob/master/LICENSE) para mais detalhes.
 
 ## Contato ✉️
-| [<img src="https://user-images.githubusercontent.com/52816125/81789587-93b33c80-94da-11ea-8c9a-413824e6424e.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/NyctibiusVII) |
+| <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
 | :---: |
 
-[Linkedin](https://www.linkedin.com/in/matheus-vidigal-nyctibius-vii/) |
-[Instagram](https://www.instagram.com/nyctibius_vii/) |
-[gmail](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH)
+<p align="left">	
+   <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-greeen?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-darkblue?style=flat&logo=Gmail&logoColor=white" />
+   </a>
+</p>
