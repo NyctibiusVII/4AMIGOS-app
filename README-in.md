@@ -19,7 +19,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="#4amigos-app">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#4amigos-app-">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#resume-%EF%B8%8F">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#functionalities-%EF%B8%8F">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="">Download</a>
