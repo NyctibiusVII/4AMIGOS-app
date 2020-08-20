@@ -7,19 +7,13 @@
 </h1>
 <h4 align="center">Aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas. Para quem não os conhece, recomendo <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4AMIGOS</a>.</h4>
 <p align="center">
-
-  <img alt="Versão" src="https://img.shields.io/static/v1?label=Version&message=alpha 0.2&color=greeen&labelColor=000000">
-
+  <img alt="Versão" src="https://img.shields.io/static/v1?label=Version&message=alpha-0.2&color=greeen&labelColor=000000">
   <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Platform&message=Android&color=greeen&labelColor=000000">
-
-  <img alt="PlayStory" src="https://img.shields.io/static/v1?label=App&message=No published&color=greeen&labelColor=000000">
-
+  <img alt="PlayStory" src="https://img.shields.io/static/v1?label=App&message=No-published&color=greeen&labelColor=000000">
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Sistema-de-seguranca-a-laser?color=darkblue&labelColor=000000">
-  
   <a href="https://github.com/NyctibiusVII/4AMIGOS-app/blob/master/LICENSE">
     <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=Apache-2.0&color=darkblue&labelColor=000000">
   </a>
-  
   <a href="https://picpay.me/Matheus_nyctibius_vii">
     <img alt="Doação" src="https://img.shields.io/static/v1?label=$&message=Donate&color=ff69b4&labelColor=000000">
   </a>
