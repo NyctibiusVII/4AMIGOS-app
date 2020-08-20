@@ -23,9 +23,11 @@
   </a>
 </p>
 <p align="center">
-  <a href="">How To Use</a> •
-  <a href="">Download</a> •
-  <a href="https://github.com/NyctibiusVII/4AMIGOS-app/blob/master/LICENSE">License</a>
+  <a href="#4amigos-app">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#resumo-%EF%B8%8F">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades-%EF%B8%8F">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
 
 ## 4AMIGOS-APP
