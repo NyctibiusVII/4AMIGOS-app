@@ -9,28 +9,27 @@
 </h1>
 <h4 align="center">Aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas. Para quem não os conhece, recomendo <a href="https://www.youtube.com/channel/UCYM04a9yva0wMQ7bPlii4rg" target="_blank">4AMIGOS</a>.</h4>
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/platform-Android-lightgrey">
+  <img alt="Versão" src="https://img.shields.io/static/v1?label=Version&message=alpha 0.2&color=greeen&labelColor=000000">
+    <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Platform&message=Android&color=greeen&labelColor=000000">
+    <a href="">
+    <img alt="PlayStory" src="https://img.shields.io/static/v1?label=App&message=No published&color=greeen&labelColor=000000">
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/vers%C3%A3o-alpha%200.2-green">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/app-no%20published-red">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Sistema-de-seguranca-a-laser?color=darkblue&labelColor=000000">
+  <a href="https://github.com/NyctibiusVII/4AMIGOS-app/blob/master/LICENSE">
+    <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=darkblue&labelColor=000000">
   </a>
   <a href="https://picpay.me/Matheus_nyctibius_vii">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+    <img alt="Doação" src="https://img.shields.io/static/v1?label=$&message=Donate&color=ff69b4&labelColor=000000">
   </a>
 </p>
 <p align="center">
   <a href="#4amigos-app">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#resumo-%EF%B8%8F">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades-%EF%B8%8F">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença-%EF%B8%8F">Licença</a>
+  <a href="">Download</a>
 </p>
 
-## 4AMIGOS-APP
+## 4AMIGOS APP
 Esse é um aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas.
 O aplicativo **NÃO É OFICIAL** dos 4AMIGOS, ele foi desenvolvido por um fã(eu) para demonstrar o reconhecimento do trabalho excelente que eles fazem e compartilhar parte dela para outras pessoas.
 
