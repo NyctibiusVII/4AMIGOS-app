@@ -24,8 +24,9 @@
   <a href="#funcionalidades-%EF%B8%8F">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="">Download</a>
 </p>
+<br><!--green and blue: #4dc71f, #0d0d8a ou #409900, #041760-->
+<h1><span style="color: #409900;">4AMIGOS </span><span style="color: #041760;">APP </span>🤣</h2>
 
-## 4AMIGOS APP
 Esse é um aplicativo para compartilhar a zoeira, figurinhas engraçadas dos comediantes, audios e piadas.
 O aplicativo **NÃO É OFICIAL** dos 4AMIGOS, ele foi desenvolvido por um fã(eu) para demonstrar o reconhecimento do trabalho excelente que eles fazem e compartilhar parte dela para outras pessoas.
 
@@ -53,12 +54,10 @@ Adoraría aceitar seus patches e contribuições para este projeto. Fico muito g
 Caso goste do projeto me apoie com um donate simples no Picpay: <a href="https://picpay.me/Matheus_nyctibius_vii">@Matheus_nyctibius_vii</a> , vocês não tem ideia do quão isso irá me incentivar. 
 
 Outra forma de contribuição seria você baixar e fazer uso do meu app na Google Play.
-
+<h4><span style="color: #f00;">⚠Disponível em breve...⚠</span></h4>
 <a href="">
-	<img src="https://user-images.githubusercontent.com/52816125/81919299-0d682a80-95ae-11ea-9616-29ef04d36769.png" width="160">
+	<img src="https://user-images.githubusercontent.com/52816125/81919299-0d682a80-95ae-11ea-9616-29ef04d36769.png" width="150">
 </a>
-
-**disponível em breve...**
 
 ## Criador 👨‍💻
 Olá para quem está lendo, quem fala é um adolescente de 18 anos, me chamo Matheus de Oliveira Vidigal Peixoto Dias e... sim meu nome é grande kk, moro em são paulo e fiz um curso técnico em uma ong chamada [CEAP PEDREIRA](https://pedreira.org/) onde estudei muitas linguagens e tecnologias que hoje são minha base. 
